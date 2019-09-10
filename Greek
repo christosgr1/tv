@@ -35,17 +35,18 @@ https://master.cystreams.com:443/live/L-Rik/karajias/3.m3u8
 https://master.cystreams.com:443/live/L-Rik/karajias/5.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Sigma TV" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY 
 http://81.21.47.74/hls/live.m3u8 
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Extra Cyprus" tvg-logo="https://i.imgur.com/WjKQj8F.jpg",EXTRA CY http://master.cystreams.com:25461/live/greek/macedonia/15.ts
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Extra Cyprus" tvg-logo="https://i.imgur.com/WjKQj8F.jpg",EXTRA CY 
+https://master.cystreams.com:443/live/L-Extra/karajias/15.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Omega",OMEGA
 https://master.cystreams.com:443/live/l-omega/karajias/7.m3u8
-
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ANT1 Cy" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 Cy
 https://master.cystreams.com:443/live/L-Ant1/karajias/8.m3u8
-
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Capital",CAPITAL
 https://master.cystreams.com:443/live/L-Capital/karajias/14.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Plus",PLUS
 https://master.cystreams.com:443/live/L-Plus/karajias/13.m3u8
+
+https://master.cystreams.com:443/live/L-Extra/karajias/15.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Alpha Cy" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA Cy
 https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMTkgOTozMzoyMSBBTSZoYXNoX3ZhbHVlPWNtMG5HdFlEUW44QzNxeTZNT2QyZGc9PSZ2YWxpZG1pbnV0ZXM9MzYw
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Alpha Cy" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA Cy2
