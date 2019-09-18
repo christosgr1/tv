@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-name="Katikidia"
+https://s12.hdvid.tv/uirolmkyuu4swchrlp6xpb2sm7fmfbjqalmiqkdcvzacofolgmuirvk6dymq/v.mp4
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1 
 https://master.cystreams.com:443/live/l-ert/apocalypto/139.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT2
